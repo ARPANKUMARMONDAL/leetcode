@@ -1,8 +1,12 @@
-// Your First C++ Program
+// My First C++ Program
 
-#include <iostream>
+#include<bits/stdc++.h>
+using namespace std;
 
-int main() {
-    std::cout << "Hello World!";
+int main ()
+{
+    cout<<"Hello World"<<endl;
+    cout<<"basics c++"<<endl;
+
     return 0;
 }
